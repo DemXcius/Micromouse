@@ -18,5 +18,5 @@ Sensing Module: Your project will involve designing and manufacturing the sensin
 
 Power Module: Lastly, you'll be tasked with designing and manufacturing the power module, which will provide the necessary electrical power to all components of the micro-mouse.
 
-Budget Constraint
+# Budget Constraint
 It's crucial to note the strict budget constraint imposed on this project. While innovation and creativity are encouraged, all design decisions must be made with the budget in mind.
