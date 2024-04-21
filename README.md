@@ -5,7 +5,7 @@ This repository contains the design and production files for the Power and Senso
 # Project Overview: Micro-Mouse Hardware Design
 
 ## What is a Micro-Mouse?
-In essence, a micro-mouse is a maze-solving robot. If you're unfamiliar with the concept, watch [Veritasium's]([https://github.com/DemXcius/Micromouse/edit/main/README.md](https://www.youtube.com/watch?v=ZMQbHMgK2rw)) video to gain a clearer understanding. It's worth noting that while the robots featured in the video may be quite speedy, this micro-mouse will likely (almost certainly) operate at a slower pace. Nonetheless, let the video serve as inspiration.
+In essence, a micro-mouse is a maze-solving robot. If you're unfamiliar with the concept, watch ([Veritasium's](https://www.youtube.com/watch?v=ZMQbHMgK2rw)) video to gain a clearer understanding. It's worth noting that while the robots featured in the video may be quite speedy, this micro-mouse will likely (almost certainly) operate at a slower pace. Nonetheless, let the video serve as inspiration.
 
 ## Project Description
 This project focuses primarily on the design of the micro-mouse's hardware, with some minor software components. The main challenge lies in meeting the project's requirements while adhering to a STRICT budget. To facilitate this endeavor, the project has been divided into four modules: the processor, motherboard, sensing, and power.
