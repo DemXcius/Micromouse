@@ -17,7 +17,7 @@ The processor and motherboard modules have already been designed and this reposi
 This module entails the design of the microcontroller unit responsible for controlling the micro-mouse's actions within the maze. The processor used is an STM32L476.
 
 ### Motherboard Module: 
-The motherboard serves as the central hub for connecting various hardware components of the micro-mouse. Here, there is leeway as to how you design the motherboard.
+The motherboard serves as the central hub for connecting various hardware components of the micro-mouse. Here, there is leeway as to how the motherboard is designed.
 
 ### Sensing Module: 
 The project will involve designing and manufacturing the sensing module, which comprises sensors responsible for detecting walls, corners, and other obstacles within the maze.
@@ -45,7 +45,7 @@ It's crucial to note that this project had a strict budget constraint imposed. W
 - Main Components: 4x TSAL4400 IR LED's, 3x SFH205F photodiodes, 1x LiPo 800mAh 3.7V
 
 - ## Included Files:
-- Datasheets: Datasheets for components used in the Power and Sensing module.
+- Datasheets: Datasheets for components used in the Power and Sensing modules.
 - Production Files: Files required for manufacturing the Power and Sensing module, including Gerber files and Bill of Materials (BOM).
 - Schematics: Schematics for Power and Sensing modules.
   
@@ -55,5 +55,5 @@ It's crucial to note that this project had a strict budget constraint imposed. W
 - Use the production files for manufacturing the Power or Sensing module PCB's.
 - Review and modify the PCB files as needed for customization.
   
-- NOTE: Production and files associated with the production were designed and used to use [jlcpcb](https://jlcpcb.com/) as the manufacturer.
+- NOTE: Production and files associated with the production were designed and used with [jlcpcb](https://jlcpcb.com/) as the manufacturer in mind.
 
